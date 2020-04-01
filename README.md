@@ -1,2 +1,2 @@
 # Machine Learning Algortithms
-## This Repository my sample codes while doing Machine Learning Implementations or lesrning any snippets of code.
+## This Repository contains my sample codes while doing Machine Learning Implementations or learning any snippets of code.
